@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/June/27.06.2022.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/June/27.06.2022.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3b6aee11362f0509",
   "lastOpenFiles": [
+    "Untitled.md",
     "2022/June/27.06.2022.md",
     "2022/June/24.06.2022.md",
     "2022/June/23.06.2022.md",
