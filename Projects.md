@@ -17,5 +17,4 @@ Unfunded
 
 
 Writing 
-- POSE stage 2? 
 - REU Site 
