@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Projects.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c747f81aa37e9616",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "3b6aee11362f0509",
   "lastOpenFiles": [
+    "Projects.md",
     "Untitled.md",
     "12.06.2022.md",
     "11.06.2022.md",
@@ -97,7 +97,6 @@
     "2022/June/30.06.2022.md",
     "2022/June/29.06.2022.md",
     "2022/June/22.06.2022.md",
-    "2022/June/28.06.2022.md",
-    "2022/June/27.06.2022.md"
+    "2022/June/28.06.2022.md"
   ]
 }
